@@ -12,7 +12,7 @@ This means many domain "words" aren't taken (or even hogged) yet,
 and also that it's not easy to check whether a specific word is taken
 (because there could be many suffixes).
 
-This project allows you to quckly (and dirtily) check whether (and how)
+This project allows you to quickly (and dirtily) check whether (and how)
 a specific word can still be acquired.  There is a surprising number still available:
 [ev.il](http://ev.il/), [mourni.ng](http://mourni.ng/), [sna.ps](http://sna.ps), [enor.mo.us](http://enor.mo.us/), etc.
 
